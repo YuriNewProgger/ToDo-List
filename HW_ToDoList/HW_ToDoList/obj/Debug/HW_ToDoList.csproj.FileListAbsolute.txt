@@ -1,0 +1,13 @@
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\bin\Debug\HW_ToDoList.exe.config
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\bin\Debug\HW_ToDoList.exe
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\bin\Debug\HW_ToDoList.pdb
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\obj\Debug\HW_ToDoList.Properties.Resources.resources
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\obj\Debug\HW_ToDoList.StartWindow.resources
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\obj\Debug\HW_ToDoList.ToDoList.resources
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\obj\Debug\HW_ToDoList.csproj.GenerateResource.cache
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\obj\Debug\HW_ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\obj\Debug\HW_ToDoList.exe
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\obj\Debug\HW_ToDoList.pdb
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\obj\Debug\HW_ToDoList.EndWindow.resources
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\obj\Debug\HW_ToDoList.WindowToDoAdd.resources
+C:\Users\Dampel\Desktop\WinForms\HW_ToDoList\HW_ToDoList\obj\Debug\HW_ToDoList.csprojAssemblyReference.cache
